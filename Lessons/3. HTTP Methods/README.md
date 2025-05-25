@@ -14,18 +14,7 @@ Each method describes a specific intent:
 
 When you interact with a website or an API, you're almost always using one of these methods under the hood.
 
-## 📘 Overview
-
-This part of the lesson demonstrates the four core HTTP methods used in RESTful APIs:
-
-- `GET`
-- `POST`
-- `PUT`
-- `DELETE`
-
-
----
-## 🔧 HTTP Methods Explained
+So TL;DR:
 
 | Method   | Purpose                              | Typical Use Case             |
 |----------|--------------------------------------|------------------------------|
@@ -33,5 +22,3 @@ This part of the lesson demonstrates the four core HTTP methods used in RESTful 
 | `POST`   | Send data to the server              | Add a new user               |
 | `PUT`    | Update existing data entirely        | Replace user info by ID      |
 | `DELETE` | Remove data from the server          | Delete a user by ID          |
-
----
