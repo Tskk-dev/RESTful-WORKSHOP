@@ -14,11 +14,13 @@ Each method describes a specific intent:
 
 When you interact with a website or an API, you're almost always using one of these methods under the hood.
 
-So TL;DR:
 
+
+## 📚 Lessons
+To get started with each, navigate to the corresponding lessons using the links below:
 | Method   | Purpose                              | Typical Use Case             |
 |----------|--------------------------------------|------------------------------|
-| `GET`    | Retrieve data from the server        | Get a list of users          |
-| `POST`   | Send data to the server              | Add a new user               |
-| `PUT`    | Update existing data entirely        | Replace user info by ID      |
-| `DELETE` | Remove data from the server          | Delete a user by ID          |
+| [GET](./lessons/get.md)       | Retrieve data from the server        | Get a list of users          |
+| [POST](./lessons/post.md)     | Send data to the server              | Add a new user               |
+| [PUT](./lessons/put.md)       | Update existing data entirely        | Replace user info by ID      |
+| [DELETE](./lessons/delete.md) | Remove data from the server          | Delete a user by ID          |
